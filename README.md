@@ -6,9 +6,13 @@ Develop a microservices-based online bookstore application using Docker, Kuberne
 Backend Language: Java (Spring Boot)
 
 Frontend Framework: React.js
+
 Database: PostgreSQL for relational data, MongoDB for non-relational data
+
 Message Queue: RabbitMQ or Apache Kafk
+
 Microservices Architecture:
+
 User Service (manages user accounts and authentication)
 Catalog Service (manages books and inventory)
 Order Service (manages customer orders)
