@@ -4,7 +4,7 @@ Implement CQRS for command and query separation, and use message queues for asyn
 
 # Technology Stack
 
-Backend Language: Java (Spring Boot)
+Backend Language: Go (Golang)
 
 Frontend Framework: React.js
 
@@ -29,3 +29,5 @@ Containerization: Docker
 Orchestration: Kubernetes
 
 CI/CD: GitHub Actions or Jenkins
+
+
